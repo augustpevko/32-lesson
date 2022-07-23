@@ -1,0 +1,67 @@
+{
+    "The Godfather": {
+        "country": "United States",
+        "date": "03.24.1972",
+        "production": "Paramount Pictures",
+        "screenplay": "Mario Puzo",
+        "directed": "Francis Ford Coppola",
+        "produced": "Albert S. Ruddy",
+        "cast": {
+            "Marlon Brando": "Vito Corleone",
+            "Robert Duvall": "Tom Hagen",
+            "Al Lettieri": "Sollozzo"
+        }
+    },
+    "Lorem Ipsum":  {
+        "country": "Dolor",
+        "date": "04.25.1973",
+        "production": "Dolor",
+        "screenplay": "Sit Amet",
+        "directed": "Consectetur Adipiscing",
+        "produced": "Elit Pellentesque",
+        "cast": {
+            "Vel Orci": "Morbi Faucibus",
+            "Quis Nibh": "Dignissim Commodo",
+            "Massa Vitae": "Nibh Mattis"
+        }
+    },
+    "Tincidunt":  {
+        "country": "Donec",
+        "date": "05.26.1974",
+        "production": "Tincidunt",
+        "screenplay": "Nisi Placerat",
+        "directed": "Luctus Nisi",
+        "produced": "Tincidunt Felis",
+        "cast": {
+            "Vel Orci": "Imperdiet Quam",
+            "Convallis Dui": "Sodales Eget",
+            "Etiam Auctor": "Sapien Id"
+        }
+    },
+    "Tempor Posuere":  {
+        "country": "Fusce",
+        "date": "06.27.1975",
+        "production": "Sapien",
+        "screenplay": "Commodo Hendrerit",
+        "directed": "Pharetra Ipsum",
+        "produced": "Vestibulum Maximus",
+        "cast": {
+            "Velit Eget": "Morbi Facilisis",
+            "Quis Nibh": "Sollicitudin Condimentum",
+            "Tempus Blandit": "Habitasse Platea"
+        }
+    },
+    "Nullam":  {
+        "country": "Turpis",
+        "date": "07.28.1976",
+        "production": "Sollicitudin",
+        "screenplay": "Ultrices Metus",
+        "directed": "Pharetra Ipsum",
+        "produced": "Luctus Blandit",
+        "cast": {
+            "Eget Semper": "Maecenas Pretium",
+            "Elementum Suscipit": "Praesent Porttitor",
+            "Massa Vitae": "Morbi Blandit"
+        }
+    }
+}
