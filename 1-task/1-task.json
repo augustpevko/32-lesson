@@ -1,0 +1,15 @@
+{
+    "The Godfather": {
+        "country": "United States",
+        "date": "03.24.1972",
+        "production": "Paramount Pictures",
+        "screenplay": "Mario Puzo",
+        "directed": "Francis Ford Coppola",
+        "produced": "Albert S. Ruddy",
+        "cast": {
+            "Marlon Brando": "Vito Corleone",
+            "Robert Duvall": "Tom Hagen",
+            "Al Lettieri": "Sollozzo"
+        }
+    }
+}
